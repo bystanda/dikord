@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@200&display=swap');
+
+body {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+h1 {
+  font-family: 'Sora', sans-serif;
+}
+
+a {
+  color: #48c27f;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #48c27f;
+  text-decoration: underline;
+}
+
+p {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
